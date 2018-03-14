@@ -41,7 +41,7 @@ loadroid:
         generate_several_ids: 40
 
     generate_ids_sequentially:
-      num-users: 200
+      num-users: 250
       period: 50 # sec
       loop: true
       requests:
